@@ -1,11 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 * 1 tbsp cilantro
->>>>>>> parent of 7877521 (reduce amount of cilantro)
-=======
-* 1 tbsp cilantro
->>>>>>> experiment
 * 2 avocados
 * 1 lime
 * 2 tsp salt
